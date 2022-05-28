@@ -276,28 +276,28 @@ h2 {
 }
 
 .cleaning {
-    background-image: url("./img/cover.png"), url("./img/fast-cleaning.jpg");
+    background-image: url("./img/cover.png"), url("./img/fast-cleaning.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .target {
-    background-image: url("./img/cover.png"), url("./img/target.png");
+    background-image: url("./img/cover.webp"), url("./img/target.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center right;
 }
 
 .portfolio {
-    background-image: url("./img/cover.png"), url("./img/hero-bg.jpg");
+    background-image: url("./img/cover.webp"), url("./img/hero-bg.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .shelter {
-    background-image: url("./img/cover.png"), url("./img/shelter.png");
+    background-image: url("./img/cover.webp"), url("./img/shelter.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
